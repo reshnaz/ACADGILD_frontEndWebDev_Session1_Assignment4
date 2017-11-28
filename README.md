@@ -2,6 +2,11 @@
 # ACADGILD_frontEndWebDev_Session1_Assignment4
 Installing 3rd Party Libraries
 =======
+Problem Statement
+1. Install 3 rd Party libraries (bootstrap).
+2. Check if the Bootstrap is installed properly or not
+---------------------------------------------------------------
+
 # AssignmentTwo
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.4.
